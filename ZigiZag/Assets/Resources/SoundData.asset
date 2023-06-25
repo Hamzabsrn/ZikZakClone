@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efe234f86dac27c41b61e5846f3e1dc8, type: 3}
+  m_Name: SoundData
+  m_EditorClassIdentifier: 
+  soundClips:
+  - _name: Coin
+    _clip: {fileID: 8300000, guid: de87d233ff734cf42a73638fea902b3f, type: 3}
+    _volume: 0.283
+  - _name: Win
+    _clip: {fileID: 8300000, guid: e774bf7d394edfa46a32f75f3be9582c, type: 3}
+    _volume: 0.283
+  - _name: Lose
+    _clip: {fileID: 8300000, guid: d08ed9000dbf8ab4d98a0ae2f39f51fe, type: 3}
+    _volume: 0.283
